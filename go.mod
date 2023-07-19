@@ -1,3 +1,3 @@
-module mskelton.dev/jira
+module github.com/mskelton/jira
 
 go 1.20
